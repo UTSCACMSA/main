@@ -9,4 +9,3 @@ collections:
     title: Uploads
     output: true
 remote_theme: arkadianriver/spectral
-theme: jekyll-theme-minimal
