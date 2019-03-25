@@ -8,4 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
-remote_theme: luminousrubyist/airspace-jekyll
+remote_theme: mmistakes/skinny-bones-jekyll
